@@ -1,7 +1,7 @@
 # pacman-master
  
 
-![alt text](https://github.com/idrisT11/8086-IDE/blob/main/assets/icone.png?raw=true)
+![alt text](https://github.com/idrisT11/pacman-master/blob/main/gif_final.gif?raw=true)
 
 
 # Fonctionnalité :
