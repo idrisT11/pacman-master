@@ -1,0 +1,18 @@
+#pacman-layer{
+    position: fixed;
+    z-index: 99;
+    width: 600px;
+    height: 650px;
+}
+
+#pacman{
+    position: absolute;
+    
+    width: 25px;
+    height: 25px;
+    clear: both;
+    background-image: url("/public/pacman.png");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}

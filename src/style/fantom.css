@@ -1,0 +1,33 @@
+.fantome-layer{
+    position: fixed;
+    z-index: 90;
+    width: 600px;
+    height: 650px;
+}
+
+.fantome{
+    position: absolute;
+    
+    width: 25px;
+    height: 25px;
+    clear: both;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+#fantome0{
+    background-image: url("/public/fantome0.gif");
+}
+
+#fantome1{
+    background-image: url("/public/fantome1.gif");
+}
+
+#fantome2{
+    background-image: url("/public/fantome2.gif");
+}
+
+#fantome3{
+    background-image: url("/public/fantome3.gif");
+}

@@ -1,0 +1,10 @@
+#plateau{
+    width: 600px;
+    height: 650px;
+    min-width: 600px;
+    min-height: 650px;
+    border: 0px solid black;
+    display: grid;
+    grid-template-columns: repeat(19, 1fr);
+
+}

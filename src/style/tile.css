@@ -1,0 +1,32 @@
+.ball, .mur, .vide{
+    clear:both;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+
+}
+
+.mur{
+    background-color: #08e494;
+
+}
+
+.ball{
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ball-ball{
+    border-radius: 50%;
+    background-color: white;
+    clear:both;
+    width: 30%;
+    height: 30%;    
+
+}
+
+.vide{
+    background-color: #333;
+}
