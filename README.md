@@ -1,6 +1,9 @@
 # pacman-master
  
 
+![alt text](https://github.com/idrisT11/8086-IDE/blob/main/assets/icone.png?raw=true)
+
+
 # Fonctionnalité :
     Animation plus fluide (et non pas bloc par bloc )
     Interface plus acceuillante(le plateau de jeu + score + gameover)
